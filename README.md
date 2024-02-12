@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shin-SeungHun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-## 🔨 Tech stack 🔨
+## 🔨 Tech stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
-## 📞 Contact 📞
+## 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:sng7387@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
