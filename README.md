@@ -38,13 +38,15 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
     </div>
-  <!-- Frontend -->
+    <br>
+    <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     </div>
+    <br>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
@@ -52,12 +54,14 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
     </div>
+    <br>
     <!-- Server -->
     <!-- Framework -->
     <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
     </div>
+    <br>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
@@ -65,6 +69,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> 
     </div>
+    <br>
     <!--   Version Control -->
     <p><strong>Version Control</strong></p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
