@@ -32,19 +32,19 @@ Here are some ideas to get you started:
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">  
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">  -->
     </div>
   <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <!--         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> -->
     </div>
     <!-- Database -->
@@ -63,19 +63,19 @@ Here are some ideas to get you started:
 <!-- Framework -->
     <p><strong>Framework</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badgelogo=Eclipse IDE&logoColor=white"> 
     </div>
     <!--   Version Control -->
     <p><strong>Version Control</strong></p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     
   
 </div><br>
