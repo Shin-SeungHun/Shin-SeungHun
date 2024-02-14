@@ -57,13 +57,13 @@ Here are some ideas to get you started:
     <br>
     <!-- Server -->
     <!-- Framework -->
-    <p><strong>Framework</strong></p>
+    <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
     </div>
     <br>
     <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
+    <p><strong>Development Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
